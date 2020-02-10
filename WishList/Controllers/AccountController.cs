@@ -20,6 +20,6 @@ namespace WishList.Controllers
         {
             _signInManager = signInManager;
             _userManager = userManager;
-        }
+        } 
     }
 }
